@@ -1,0 +1,34 @@
+{
+  "Test": {
+    "URL": "https://loadappsmart.appdirect.com",
+    "channelAdmin": {
+      "Username": "christian.roig@appdirect.com",
+      "Password": "qatesting1"
+    },
+    "Reseller": {
+      "Username": "christian.roig@appdirect.com",
+      "Password": "qatesting1"
+    },
+    "Superuser": {
+      "Username": "",
+      "Password": ""
+    }
+  },
+  "Orchard": {
+    "URL": "",
+    "channelAdmin": {
+      "Username": "",
+      "Password": ""
+    },
+    "Reseller": {
+      "Username": "",
+      "Password": ""
+    },
+    "Superuser": {
+      "Username": "",
+      "Password": ""
+    }
+  },
+  "Load": {
+  }
+}

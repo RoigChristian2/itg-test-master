@@ -1,0 +1,18 @@
+{
+  "defaultCommandTimeout": 20000,
+  "pageLoadTimeout": 120000,
+  "video": true,
+  "videosFolder": "cypress/reports/video",
+  "screenshotsFolder": "cypress/reports/screenshots",
+  "baseUrl":"https://marketplace.appsmart.com",
+  "env":{
+    "db": {
+      "host": "",
+      "user": "",
+      "password": "",
+      "database": ""
+    },
+    "username": "christian.roig+re@appdirect.com",
+    "password": "Qatesting2"
+  }
+}

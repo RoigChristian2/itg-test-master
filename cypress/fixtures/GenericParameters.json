@@ -1,0 +1,18 @@
+{
+  "oAuth1": {
+    "clientKey": "",
+    "clientSecret": ""
+  },
+  "oAuth2": {
+    "scopeChannelAdmin": {
+      "grantType": "password",
+      "clientKey": "",
+      "clientSecret": "",
+      "username": "superuser+1@appdirect.com",
+      "password": ""
+    }
+  },
+  "adTenant": "APPDIRECT",
+  "authTokenURI": "",
+  "itgConfigServiceURI": ""
+}

@@ -1,0 +1,44 @@
+{
+  "Custom_Attributes": {
+    "Company_Custom_Attribute": {
+      "customAttribute_key_text": "Cy_CompTKey_CA_TC01",
+      "customAttribute_label_text": "Cy CompTLabel CA TC01",
+      "customAttribute_hint_text": "Cy CompTHint TC01",
+      "customAttribute_inputType_text": "Text",
+      "customAttribute_attributeLocation_text": "Company Details Page",
+      "customAttribute_definitionValue_text": "Cy DCompT_TC01",
+      "customAttribute_key_checkbox": "Cy_CompCKey_CA_TC01",
+      "customAttribute_label_checkbox": "Cy CompCLabel CA TC01",
+      "customAttribute_hint_checkbox": "Cy CompCHint TC01",
+      "customAttribute_inputType_checkbox": "Checkboxes",
+      "customAttribute_attributeLocation_checkbox": "Company Details Page",
+      "customAttribute_definitionKey_checkbox": "Option1",
+      "customAttribute_definitionValue_checkbox": "Value1"
+    },
+    "User_Custom_Attribute": {
+      "customAttribute_key_text": "Cy_UsrTKey_CA_TC01",
+      "customAttribute_label_text": "Cy UsrTLabel CA TC01",
+      "customAttribute_hint_text": "Cy UsrTHint TC01",
+      "customAttribute_inputType_text": "Text",
+      "customAttribute_attributeLocation_text": "User Details Page",
+      "customAttribute_definitionValue_text": "Cy DUsrT_TC01",
+      "customAttribute_key_checkbox": "Cy_UsrCKey_CA_TC01",
+      "customAttribute_label_checkbox": "Cy UsrCLabel CA TC01",
+      "customAttribute_hint_checkbox": "Cy UsrCHint TC01",
+      "customAttribute_inputType_checkbox": "Checkboxes",
+      "customAttribute_attributeLocation_checkbox": "User Details Page",
+      "customAttribute_definitionKey_checkbox": "Option1",
+      "customAttribute_definitionValue_checkbox": "Value1"
+    }
+  },
+  "Invoice_Template": {
+    "templateName": "Cypress_CustomAttribute_TC01",
+    "templateLocale": "English (United States)"
+  },
+  "Purchase_Product": {
+    "productName": "TEST_AUTO_WEB_APP_EDITIONS",
+    "editionName": "Recurring Edition",
+    "additionalUserCount": "1",
+    "convertedFileName": "CustomAttribute_TC01.html"
+  }
+}
